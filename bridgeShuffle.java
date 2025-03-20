@@ -1,10 +1,8 @@
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 //By Franco Bernardele aka Franspi-lol
 
-public class Main {
+public class bridgeShuffle {
     public static void main(String[] args) {
         String[] arr = {"a", "c"};
         Integer[] arr2 = {3, 4, 8, 9, 10};

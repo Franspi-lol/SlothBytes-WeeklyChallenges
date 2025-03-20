@@ -15,3 +15,6 @@ static String devolverNro(int[] numero)
         }
         return numeroReturn;
     }
+
+public void main() {
+}
