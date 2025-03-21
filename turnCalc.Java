@@ -1,6 +1,16 @@
-//Made a bit of a mess for myself by using Java, but hey i did two versions: one for String and one for int.
-    public static String turnCalcInt(int num)
-    {
+import java.util.HashMap;
+import java.util.Map;
+
+public class NumberConverter {
+
+    /**
+     * Converts an integer to a string representation using a custom mapping.
+     *
+     * @param num The integer to convert.
+     * @return The string representation of the integer based on the custom mapping.
+     * @author Franco Bernardele (Franspi-lol)
+     */
+    public static String turnCalcInt(int num) {
         Map<Integer, String> map = new HashMap<>();
         map.put(1, "I");
         map.put(2, "Z");
@@ -16,13 +26,20 @@
         char[] arreglo = number.toCharArray();
         int valor;
         String result = "";
-        for (int i = arreglo.length-1; i>=0; i--) {
+        for (int i = arreglo.length - 1; i >= 0; i--) {
             valor = Integer.parseInt(String.valueOf(arreglo[i]));
             result += map.get(valor);
         }
         return result;
     }
 
+    /**
+     * Converts a string representation of a number to a string using a custom mapping.
+     *
+     * @param num The string representation of the number to convert.
+     * @return The string representation based on the custom mapping.
+     * @author Franco Bernardele (Franspi-lol)
+     */
     public static String turnCalcString(String num) {
         Map<Character, String> map = new HashMap<>();
         map.put('1', "I");
@@ -42,3 +59,9 @@
         }
         return result;
     }
+
+    public static void main(String[] args) {
+        System.out.println(turnCalcInt(1234567890)); // Output: OBGLSHEZI
+        System.out.println(turnCalcString("1234567890")); // Output: OBGLSHEZI
+    }
+}
