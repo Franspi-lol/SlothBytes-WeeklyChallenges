@@ -6,10 +6,10 @@ This page serves as an index for the documentation of various Java code snippets
 
 Here's a list of documented Java code snippets for the challenges:
 
-* **[bridgeShuffle](docs/bridgeShuffle.md)**: Documentation for the `bridgeShuffle` Java code, which implements a bridge shuffle algorithm for interleaving elements from two arrays.
-* **[FormatearNumero](docs/FormatearNumero.md)**: Documentation for the `FormatearNumero` Java code, which formats an integer array representing a phone number into a string.
-* **[NumberConverter](docs/NumberConverter.md)**: Documentation for the `NumberConverter` Java code, which converts numbers (both integers and strings) to custom string representations.
-* **[VirusRemover](docs/virusRemover.md)**: Documentation for the `VirusRemover` Java code, which removes file names indicating viruses or malware from a string.
+* **[bridgeShuffle](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/bridgeShuffle.md)**: Documentation for the `bridgeShuffle` Java code, which implements a bridge shuffle algorithm for interleaving elements from two arrays.
+* **[FormatearNumero](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/phoneNumberFormatting.md)**: Documentation for the `FormatearNumero` Java code, which formats an integer array representing a phone number into a string.
+* **[turnCalc](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/turnCalc.md)**: Documentation for the `NumberConverter` Java code, which converts numbers (both integers and strings) to custom string representations.
+* **[VirusRemover](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/virusRemover.md)**: Documentation for the `VirusRemover` Java code, which removes file names indicating viruses or malware from a string.
 
 ## Usage
 
