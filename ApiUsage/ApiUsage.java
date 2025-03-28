@@ -43,15 +43,15 @@ public class ApiUsage {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main() {
         System.out.println(useAPI(5)); // Output: Pokemon{name='charmeleon', id=5, height=11} or ERROR
     }
 }
 
 class Pokemon {
-    private String name;
-    private int id;
-    private int height;
+    private final String name;
+    private final int id;
+    private final int height;
 
     @Override
     public String toString() {
@@ -62,27 +62,13 @@ class Pokemon {
                 '}';
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
+    public Pokemon(String name, int id, int height) {
         this.name = name;
-    }
-
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
         this.id = id;
-    }
-
-    public int getHeight() {
-        return height;
-    }
-
-    public void setHeight(int height) {
         this.height = height;
     }
+
+
+
+
 }
