@@ -5,3 +5,4 @@ I´ll post here all the weekly challenges i completed from the Sloth Bytes weekl
 
 ## NOW WITH DOCUMENTATION (YAYYYY)
   > [DOC HERE](https://francobernar.com.ar/SlothBytes-WeeklyChallenges/)
+
