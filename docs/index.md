@@ -14,7 +14,8 @@ Here's a list of documented Java code snippets for the challenges:
 * **[SplittingNumbers](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/SplittingNumbers.md)**: Documentation for the `SplittingNumbers` Java code, which when receiving an Integer it returns an Integer Array with every digit with the place it has in the number.
 * **[changeEnough](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/changeEnough.md)**: Documentation for the `changeEnough` Java code, which calculates according to the amount of coins if you could afford something.
 * **[binarySearch](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/binarySearch.md)**: Documentation for the `binarySearch` Java code, which searches the first occurrence of an integer value in an array and returns its index.
-* **[ApiUsage](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/ApiUsage.md)**: Documentation for the `binarySearch` Java code, which fetches the data from the PokéApi of a given Pokémon.
+* **[ApiUsage](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/ApiUsage.md)**: Documentation for the `ApiUsage` Java code, which fetches the data from the PokéApi of a given Pokémon.
+* **[MessageFromSpace](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/MessageFromSpace.md)**: Documentation for the `spaceMessage` Java code
 
 ## Usage
 
