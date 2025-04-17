@@ -16,7 +16,7 @@ Here's a list of documented Java code snippets for the challenges:
 * **[binarySearch](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/binarySearch.md)**: Documentation for the `binarySearch` Java code, which searches the first occurrence of an integer value in an array and returns its index.
 * **[ApiUsage](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/ApiUsage.md)**: Documentation for the `ApiUsage` Java code, which fetches the data from the PokéApi of a given Pokémon.
 * **[MessageFromSpace](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/MessageFromSpace.md)**: Documentation for the `spaceMessage` Java code
-* **[MessageFromSpace](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/nextHappyYear.md)**: Documentation for the `nextHappyYear` Java code, which finds the next "happy year" after a given year. A happy year is defined as a year in which all of its digits are unique.
+* **[nextHappyYear](https://github.com/Franspi-lol/SlothBytes-WeeklyChallenges/blob/main/docs/nextHappyYear.md)**: Documentation for the `nextHappyYear` Java code, which finds the next "happy year" after a given year. A happy year is defined as a year in which all of its digits are unique.
 
 ## Usage
 
